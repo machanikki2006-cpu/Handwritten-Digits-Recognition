@@ -77,4 +77,4 @@ The trained model is evaluated using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/handwritten-digit-recognition.git
+git clone https://github.com/machanikki2006-cpu/Handwritten-Digits-Recognition.git
